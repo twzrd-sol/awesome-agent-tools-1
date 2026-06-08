@@ -147,6 +147,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [Smithery](https://smithery.ai/) - Registry and marketplace for discovering and deploying MCP servers.
 - [Glama](https://glama.ai/mcp/servers) - MCP server discovery and directory platform.
 - [mcpx](https://github.com/ArcadeAI/mcpx) - Runner for MCP servers with one-command install and run.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification MCP server for AI agents on Solana, enabling x402 micropayment security.
 
 ## Agent Memory
 
